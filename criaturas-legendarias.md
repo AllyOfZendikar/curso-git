@@ -1,3 +1,4 @@
 # Criaturas legendarias
 
 * Avacyn
+* Malaria
